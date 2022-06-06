@@ -1,3 +1,8 @@
+/* Exercise 2 - Function to calculate time dilation
+ * Author: Daniel Geula
+ * Date: 05/06/2022
+ * Version: 1.0 */
+
 #include <stdio.h>
 #include <math.h>
 
