@@ -1,3 +1,8 @@
+/* Exercise 1 - Function to calculate E using E=mc2
+ * Author: Daniel Geula
+ * Date: 05/06/2022
+ * Version: 1.0 */
+
 #include <stdio.h>
 #include <math.h>
 
