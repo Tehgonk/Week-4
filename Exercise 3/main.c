@@ -1,3 +1,8 @@
+/* Exercise 3 - Function to return max
+ * Author: Daniel Geula
+ * Date: 06/06/2022
+ * Version: 1.0 */
+
 #include <stdio.h>
 
 int findLargest(int n1, int n2, int n3);
